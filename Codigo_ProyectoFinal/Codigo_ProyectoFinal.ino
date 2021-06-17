@@ -1,7 +1,7 @@
 //incluimos librería para el LCD:
 #include <LiquidCrystal.h>
 
-// declarar pantalla LCD y asignar pines RS=12 E=7 DB4=11 DB5=10 DB6=9 DB7=8
+// declarar pantalla LCD y asignar pines RS=12 E=11 DB4=5 DB5=4 DB6=3 DB7=2
 LiquidCrystal lcd(12, 7, 11, 10, 9, 8);
 
 
